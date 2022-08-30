@@ -1,3 +1,6 @@
 [submodule "git-makigas"]
 	path = git-makigas
 	url = https://github.com/MendicantBias-096/git-makigas
+[submodule "c-makigas"]
+	path = c-makigas
+	url = git@github.com:MendicantBias-096/c-makigas.git
